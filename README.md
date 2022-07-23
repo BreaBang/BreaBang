@@ -27,7 +27,7 @@ Check it out: https://github.com/BreaBang/BookRecommenderAPI
 
 ### Unbridled Yoga
 Check it out: https://unbridledyogacolorado.com/
-![alt text]([https://unbridledyogacolorado.com/](https://github.com/BreaBang/BreaBang#:~:text=1%20minute%20ago-,Unbridled.png,-Add%20files%20via))
+![alt text](https://github.com/BreaBang/BreaBang#:~:text=1%20minute%20ago-,Unbridled.png,-Add%20files%20via)
 
 
 ---
