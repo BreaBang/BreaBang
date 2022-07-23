@@ -17,8 +17,5 @@
 
 ## Projects
 
-                                                                                                                      | 
-| ------------------------------------------------------------------------------------------------------------------- |:-------------:|
-| #Book Recommender API                                                                                               |
-|                                                                                                                     |
-|![alt text](https://github.com/BreaBang/BookRecommenderAPI#:~:text=4%20days%20ago-,API.gif.gif,-Add%20files%20via)   |:
+#Book Recommender API and App
+![alt text](https://github.com/BreaBang/BookRecommenderAPI#:~:text=4%20days%20ago-,API.gif.gif,-Add%20files%20via)
