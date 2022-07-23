@@ -21,7 +21,13 @@
             
 
 ### Book Recommender API and App
+Check it out: https://github.com/BreaBang/BookRecommenderAPI
 
 ![alt text](https://github.com/BreaBang/BookRecommenderAPI/blob/main/API.gif.gif))
+
+### Unbridled Yoga
+Check it out: https://unbridledyogacolorado.com/
+![alt text](https://unbridledyogacolorado.com/)
+
 
 ---
