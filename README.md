@@ -15,9 +15,9 @@
     </div>
 ---
 
-## Projects |
-            |
-            |
+## Projects 
+            
+            
 
 ### Book Recommender API and App
 
