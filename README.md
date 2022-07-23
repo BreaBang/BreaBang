@@ -13,6 +13,12 @@
         <a href="https://angel.co/u/breanna-bang" class="bbtn btn-primary">Angellist</a>
         <a href="https://breoutside.com/" class="bbtn btn-primary">Yoga</a>
     </div>
+    
+    <div class="BtnGroup d-block mb-2 ml-0">
+  <button class="BtnGroup-item btn btn-outline" type="button">Button</button>
+  <button class="BtnGroup-item btn btn-outline" type="button">Button</button>
+  <button class="BtnGroup-item btn btn-outline" type="button">Button</button>
+</div>
 ---
 
 ## Projects 
