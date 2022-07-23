@@ -1,4 +1,4 @@
-#Hey I'm Breanna Bang
+# Hey I'm Breanna Bang
 
 - 🔭 I’m currently working on a 100-hours project (not ready to share details).
 - 🌱 I’m currently building confidence in my knowledge of Javascript through projects.
