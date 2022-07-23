@@ -14,11 +14,7 @@
         <a href="https://breoutside.com/" class="bbtn btn-primary">Yoga</a>
     </div>
     
-    <div class="BtnGroup d-block mb-2 ml-0">
-  <button class="BtnGroup-item btn btn-outline" type="button">Button</button>
-  <button class="BtnGroup-item btn btn-outline" type="button">Button</button>
-  <button class="BtnGroup-item btn btn-outline" type="button">Button</button>
-</div>
+ <button class="btn" type="button">Button</button>
 ---
 
 ## Projects 
