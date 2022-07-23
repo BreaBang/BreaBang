@@ -1,16 +1,4 @@
-import { render } from 'github-buttons'
-
-// export function render(options: object, callback: (el: HTMLElement) => void): void;
-render(options, function (el) {
-  document.body.appendChild(el) 
-})
-
-// export function render(anchor: HTMLAnchorElement, callback: (el: HTMLElement) => void): void;
-render(anchor, function (el) {
-  anchor.parentNode.replaceChild(el, anchor)
-})
-
-### <center>Hey I'm Breanna Bang</center>
+# <center>Hey I'm Breanna Bang</center>
 
 - 🔭 I’m currently working on a 100-hours project (not ready to share details).
 - 🌱 I’m currently building confidence in my knowledge of Javascript through projects.
