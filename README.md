@@ -1,4 +1,4 @@
-mport { render } from 'github-buttons'
+import { render } from 'github-buttons'
 
 // export function render(options: object, callback: (el: HTMLElement) => void): void;
 render(options, function (el) {
