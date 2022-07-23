@@ -13,3 +13,12 @@
         <a href="https://angel.co/u/breanna-bang" class="button">Angellist</a>
         <a href="https://breoutside.com/" class="button">Yoga</a>
     </div>
+
+
+## Projects
+
+                                                                                                                      | 
+| ------------------------------------------------------------------------------------------------------------------- |:-------------:|
+| #Book Recommender API                                                                                               |
+|                                                                                                                     |
+|![alt text](https://github.com/BreaBang/BookRecommenderAPI#:~:text=4%20days%20ago-,API.gif.gif,-Add%20files%20via)   |:
