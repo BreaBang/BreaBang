@@ -6,12 +6,12 @@
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun facts: I'm a huge fan of Disney's Gargoyles (1994). <a href="https://www.breoutside.com" target="_blank">I teach yoga</a>. I love dogs.
 
- <div class="button-group pill">
-        <a href="https://www.breannabang.com/" class="btn btn-primary" type="button">Website</a>
-        <a href="https://www.linkedin.com/in/breanna-bang/" class="btn btn-primary">LinkedIn</a>
-        <a href="https://twitter.com/BreannaBang" class="btn btn-primary">Twitter</a>
-        <a href="https://angel.co/u/breanna-bang" class="bbtn btn-primary">Angellist</a>
-        <a href="https://breoutside.com/" class="bbtn btn-primary">Yoga</a>
+ <div class="button-group btn">
+        <a href="https://www.breannabang.com/" class="button btn btn-primary" type="button">Website</a>
+        <a href="https://www.linkedin.com/in/breanna-bang/" class="button btn btn-primary">LinkedIn</a>
+        <a href="https://twitter.com/BreannaBang" class="button btn btn-primary">Twitter</a>
+        <a href="https://angel.co/u/breanna-bang" class="button btn btn-primary">Angellist</a>
+        <a href="https://breoutside.com/" class="button btn btn-primary">Yoga</a>
     </div>
  
 ---
