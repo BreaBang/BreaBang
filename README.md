@@ -4,7 +4,7 @@
 - 🌱 I’m currently building confidence in my knowledge of Javascript through projects.
 - 📫 How to reach me: Breanna.Bang@gmail.com
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun facts: I'm a huge fan of Disney's Gargoyles (1994). <a href="https://www.breoutside.com" target="_blank">I teach yoga</a>. I volunteer at an animal shelter 3 hours a week walking dogs.
+- ⚡ Fun facts: I'm a huge fan of Disney's Gargoyles (1994). <a href="https://www.breoutside.com" target="_blank">I teach yoga</a>. I'm a volunteer dog walker at a local shelter.
 
  <div class="button-group btn">
         <a href="https://www.breannabang.com/" class="button btn btn-primary" type="button">Website</a>
