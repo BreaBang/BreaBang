@@ -75,12 +75,12 @@
   </tr>
   
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3 align="center">Basic JavaScript Review Carousel</h3>
         <br>
-      <a target="_blank" href="[https://jaclynbrothers.github.io/prep-and-step/](https://github.com/BreaBang/JavascriptBasicProjects/tree/main/Reviews)"></a>    
+      <a target="_blank" href="https://github.com/BreaBang/JavascriptBasicProjects/tree/main/Reviews"></a>    
 
-(https://github.com/BreaBang/JavascriptBasicProjects/blob/main/Reviews/dogs.gif.gif)
+<img src="https://github.com/BreaBang/JavascriptBasicProjects/blob/main/Reviews/dogs.gif.gif">
 
   <p align="center">
   <a href="https://github.com/jaclynbrothers/prep-and-step" target="_blank">
