@@ -13,7 +13,7 @@
   <a target="_blank" href="https://twitter.com/breannabang" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a target="_blank" href="https://linkedin.com/in/breannabang" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/breanna-bang/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a target="_blank" href="https://angel.co/u/breanna-bang" target="_blank">
@@ -33,7 +33,7 @@
 <br>
 
 <h2 align="center">Latest Projects</h2>
-<table bordercolor="#66b2b2">
+<table bordercolor="2a52be">
   
   <tr>
     <td width="50%" valign="top">
@@ -155,5 +155,5 @@
 <h2 align="center">Connect with me</h2>
 <p align="center">
 <a href="https://twitter.com/breannabang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaclynbrothers" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/breannabang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaclynbrothers" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/breanna-bang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaclynbrothers" height="30" width="40" /></a>
 </p>
