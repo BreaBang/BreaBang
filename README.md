@@ -92,35 +92,11 @@
       </p>
         <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This application allows a user to click through or choose a random review. I created this basic review carousel via the FreeCodeAcademy and John Smilga tutorial.</p>
     </td>
-<td width="50%" valign="top">
-      <h3 align="center">My Portfolio</h3>
-        <br>
-        <a target="_blank" href="https://wwwbreannabang.com">
-            <img src="https://github.com/jaclynbrothers/portfolio/blob/main/images/portfolio.png" width="100%" alt="My Portfolio Layout">
-        </a>
-        <br>
-        <p align="center">
-          
-  <a href="https://github.com/jaclynbrothers/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>  
-  <a href="https://jaclynbrothers.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
-  </a>
-      </p>
-        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This is a portfolio where customers or recuriters can see my latest projects and connect with me.</p>
-    </td>
   </tr>
 </table>
 
 <br>
 
-<h2 align="center">Streak Stats</h2>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaclynbrothers&theme=highcontrast" alt="jaclynbrothers" />
-</p>
-
-<br>
 
 <h2 align="center">Technical Skills</h2>
 <p align="center">
