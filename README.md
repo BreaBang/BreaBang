@@ -54,6 +54,7 @@
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - This app helps you find your next read by providing a book recommendation based on a word input by the user.</p>
     </td>
+    
     <td width="50%" valign="top">
       <h3 align="center">Unbridled Yoga Website</h3>
         <br>
@@ -74,7 +75,7 @@
     </td>
   </tr>
   
-  <tr>
+  
     <td width="50%" valign="top">
       <h3 align="center">Basic JavaScript Review Carousel</h3>
         <br>
@@ -90,7 +91,8 @@
       </p>
         <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This application allows a user to click through or choose a random review. I created this basic review carousel via the FreeCodeAcademy and John Smilga tutorial.</p>
     </td>
-     <tr>
+     
+  
       <td width="50%" valign="top">
       <h3 align="center">Buzzfeed Style Quiz Appl (in progress)</h3>
         <br>
