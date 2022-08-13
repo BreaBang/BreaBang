@@ -113,12 +113,6 @@ https://user-images.githubusercontent.com/102431119/177065839-dc567614-75ca-4947
   </tr>
 </table>
 
-<br>
-
-<h2 align="center">Streak Stats</h2>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaclynbrothers&theme=highcontrast" alt="jaclynbrothers" />
-</p>
 
 <br>
 
