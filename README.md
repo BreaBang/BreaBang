@@ -75,7 +75,7 @@
     </td>
   </tr>
   
-  
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Basic JavaScript Review Carousel</h3>
         <br>
