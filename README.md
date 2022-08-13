@@ -1,37 +1,3 @@
-# Hey I'm Breanna Bang
-
-- 🔭 I’m currently working on a 100-hours project (not ready to share details).
-- 🌱 I’m currently building confidence in my knowledge of Javascript through projects.
-- 📫 How to reach me: Breanna.Bang@gmail.com
-- 😄 Pronouns: She/Her/Hers
-- ⚡ Fun facts: I'm a huge fan of Disney's Gargoyles (1994). <a href="https://www.breoutside.com" target="_blank">I teach yoga</a>. I'm a volunteer dog walker at a local shelter.
-
- <div class="button-group btn">
-        <a href="https://www.breannabang.com/" class="button btn btn-primary" type="button">Website</a>
-        <a href="https://www.linkedin.com/in/breanna-bang/" class="button btn btn-primary">LinkedIn</a>
-        <a href="https://twitter.com/BreannaBang" class="button btn btn-primary">Twitter</a>
-        <a href="https://angel.co/u/breanna-bang" class="button btn btn-primary">Angellist</a>
-        <a href="https://breoutside.com/" class="button btn btn-primary">Yoga</a>
-    </div>
- 
----
-
-## Projects 
-            
-            
-
-### Book Recommender API and App
-Check it out: https://github.com/BreaBang/BookRecommenderAPI
-
-![alt text](https://github.com/BreaBang/BookRecommenderAPI/blob/main/API.gif.gif))
-
-### Unbridled Yoga
-Check it out: https://unbridledyogacolorado.com/
-
-![alt text](https://github.com/BreaBang/BreaBang/blob/main/unbridled.png)
-
-
----
 <h1 align="center">Hey I'm Breanna Bang</h1>
 <h3 align="center">A full stack software engineer from Denver, Colorado</h3>
 <p align="center">
@@ -79,10 +45,10 @@ Check it out: https://unbridledyogacolorado.com/
         <br>
         <p align="center">
           
-  <a href="https://github.com/jaclynbrothers/leftover-ingredients-app" target="_blank">
+  <a href="github.com/BreaBang/BookRecommenderAPI" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-  <a href="https://jaclynbrothers.github.io/leftover-ingredients-app/" target="_blank">
+  <a href="https://findabookbybre.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
@@ -91,8 +57,8 @@ Check it out: https://unbridledyogacolorado.com/
     <td width="50%" valign="top">
       <h3 align="center">Unbridled Yoga Website</h3>
         <br>
-      <a target="_blank" href="https://jaclynbrothers.github.io/dog-generator/">
-            <img src="https://github.com/BreaBang/BreaBang/blob/main/unbridled.png"  alt="Dog Generator App"/>
+      <a target="_blank" href="https://unbridledyogacolorado.com/">
+            <img src="https://github.com/BreaBang/BreaBang/blob/main/unbridled.png"/>
         </a>
         <br>
         <p align="center">
@@ -100,21 +66,21 @@ Check it out: https://unbridledyogacolorado.com/
   <a href="https://unbridledyogacolorado.com/" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://jaclynbrothers.github.io/dog-generator/" target="_blank">
+  <a href="https://unbridledyogacolorado.com/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - User can select a dog breed that generates a randomized name, image, and description for that dog.</p>
+        <p><strong>HTML5, CSS3</strong> - This website was created using a template for a Colorado Springs Yoga Teacher.</p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Prep and Step</h3>
+      <h3 align="center">Basic JavaScript Review Carousel</h3>
         <br>
-      <a target="_blank" href="https://jaclynbrothers.github.io/prep-and-step/"></a>    
+      <a target="_blank" href="[https://jaclynbrothers.github.io/prep-and-step/](https://github.com/BreaBang/JavascriptBasicProjects/tree/main/Reviews)"></a>    
 
-https://user-images.githubusercontent.com/102431119/177065839-dc567614-75ca-4947-86b0-e85e606722e1.mp4
+(https://github.com/BreaBang/JavascriptBasicProjects/blob/main/Reviews/dogs.gif.gif)
 
   <p align="center">
   <a href="https://github.com/jaclynbrothers/prep-and-step" target="_blank">
@@ -124,12 +90,12 @@ https://user-images.githubusercontent.com/102431119/177065839-dc567614-75ca-4947
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This application allows the user to select and name images to create a visual schedule of their student's or child's daily routine.</p>
+        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This application allows a user to click through or choose a random review. I created this basic review carousel via the FreeCodeAcademy and John Smilga tutorial.</p>
     </td>
 <td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
         <br>
-        <a target="_blank" href="https://jaclynbrothers.netlify.app/">
+        <a target="_blank" href="https://wwwbreannabang.com">
             <img src="https://github.com/jaclynbrothers/portfolio/blob/main/images/portfolio.png" width="100%" alt="My Portfolio Layout">
         </a>
         <br>
@@ -142,7 +108,7 @@ https://user-images.githubusercontent.com/102431119/177065839-dc567614-75ca-4947
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - My portfolio website that describes consulting services, showcases latest projects, and provides ways to contact me.</p>
+        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This is a portfolio where customers or recuriters can see my latest projects and connect with me.</p>
     </td>
   </tr>
 </table>
