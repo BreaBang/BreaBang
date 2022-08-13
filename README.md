@@ -90,6 +90,7 @@
       </p>
         <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This application allows a user to click through or choose a random review. I created this basic review carousel via the FreeCodeAcademy and John Smilga tutorial.</p>
     </td>
+     <tr>
       <td width="50%" valign="top">
       <h3 align="center">Buzzfeed Style Quiz Appl (in progress)</h3>
         <br>
