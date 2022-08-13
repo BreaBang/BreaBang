@@ -39,21 +39,20 @@
     <td width="50%" valign="top">
       <h3 align="center">Find A Book App</h3>
         <br>
-        <a target="_blank" href="https://jaclynbrothers.github.io/leftover-ingredients-app/">
+        <a target="_blank" href="https://github.com/BreaBang/BookRecommenderAPI">
             <img src="https://github.com/BreaBang/BookRecommenderAPI/blob/main/API.gif.gif">
         </a>
         <br>
         <p align="center">
           
-  <a href="https://github.com/jaclynbrothers/leftover-ingredients-app" target="_blank">
+   <a href="github.com/BreaBang/BookRecommenderAPI" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-  <a href="https://jaclynbrothers.github.io/leftover-ingredients-app/" target="_blank">
+  <a href="https://findabookbybre.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - This app helps you find meals for your leftover ingredients. Type in your leftover ingredient to view recipes you can make! Each recipe contains the instructions along with a link to the corresponding YouTube video.</p>
-    </td>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - This app helps you find your next read by providing a book recommendation based on a word input by the user.</p>
     <td width="50%" valign="top">
       <h3 align="center">Unbridled Yoga Website</h3>
         <br>
