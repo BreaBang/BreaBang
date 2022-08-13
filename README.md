@@ -82,14 +82,12 @@
 <img src="https://github.com/BreaBang/JavascriptBasicProjects/blob/main/Reviews/dogs.gif.gif">
 
   <p align="center">
-  <a href="https://github.com/jaclynbrothers/prep-and-step" target="_blank">
+  <a href="https://github.com/BreaBang/JavascriptBasicProjects/tree/main/Reviews" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-  <a href="https://jaclynbrothers.github.io/prep-and-step/" target="_blank">
-    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
-  </a>
+  
       </p>
-        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This application allows the user to select and name images to create a visual schedule of their student's or child's daily routine.</p>
+        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This application allows a user to click through or choose a random review. I created this basic review carousel via the FreeCodeAcademy and John Smilga tutorial.</p>
     </td>
 <td width="50%" valign="top">
       <h3 align="center">Buzzfeed Style Quiz Appl (in progress)</h3>
