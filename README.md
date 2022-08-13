@@ -45,7 +45,7 @@
         <br>
         <p align="center">
           
-   <a href="github.com/BreaBang/BookRecommenderAPI" target="_blank">
+   <a href="https://findabookbybre.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
   <a href="https://findabookbybre.netlify.app/" target="_blank">
@@ -56,7 +56,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Unbridled Yoga Website</h3>
         <br>
-      <a target="_blank" href="https://jaclynbrothers.github.io/dog-generator/">
+      <a target="_blank" href="https://unbridledyogacolorado.com/">
             <img src="https://github.com/BreaBang/BreaBang/blob/main/unbridled.png">
         </a>
         <br>
@@ -77,7 +77,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Basic JavaScript Review Carousel</h3>
         <br>
-      <a target="_blank" href="https://jaclynbrothers.github.io/prep-and-step/"></a>    
+      <a target="_blank" href="https://github.com/BreaBang/JavascriptBasicProjects/tree/main/Reviews"></a>    
 
 <img src="https://github.com/BreaBang/JavascriptBasicProjects/blob/main/Reviews/dogs.gif.gif">
 
@@ -94,16 +94,16 @@
 <td width="50%" valign="top">
       <h3 align="center">Buzzfeed Style Quiz Appl (in progress)</h3>
         <br>
-        <a target="_blank" href="https://jaclynbrothers.netlify.app/">
+        <a target="_blank" href="https://dogquizapp.netlify.app/">
            <img src="https://github.com/BreaBang/QuizApp/blob/main/04.gif">
         </a>
         <br>
         <p align="center">
           
-  <a href="https://github.com/jaclynbrothers/portfolio" target="_blank">
+  <a href="https://github.com/BreaBang/QuizApp" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-  <a href="https://jaclynbrothers.netlify.app/" target="_blank">
+  <a href="https://dogquizapp.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
