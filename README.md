@@ -40,7 +40,7 @@
       <h3 align="center">Find A Book App</h3>
         <br>
         <a target="_blank" href="https://github.com/BreaBang/BookRecommenderAPI">
-            <img src="https://github.com/BreaBang/BookRecommenderAPI/blob/main/API.gif.gif" width="100%">
+            <img src="https://github.com/BreaBang/BookRecommenderAPI/blob/main/API.gif.gif">
         </a>
         <br>
         <p align="center">
@@ -59,7 +59,7 @@
       <h3 align="center">Unbridled Yoga Website</h3>
         <br>
       <a target="_blank" href="https://unbridledyogacolorado.com/">
-            <img src="https://github.com/BreaBang/BreaBang/blob/main/unbridled.png" width="100%">
+            <img src="https://github.com/BreaBang/BreaBang/blob/main/unbridled.png">
         </a>
         <br>
         <p align="center">
@@ -76,12 +76,12 @@
   </tr>
   
   <tr>
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
       <h3 align="center">Basic JavaScript Review Carousel</h3>
         <br>
       <a target="_blank" href="https://github.com/BreaBang/JavascriptBasicProjects/tree/main/Reviews"></a>    
 
-<img src="https://github.com/BreaBang/JavascriptBasicProjects/blob/main/Reviews/dogs.gif.gif" width="100%">
+<img src="https://github.com/BreaBang/JavascriptBasicProjects/blob/main/Reviews/dogs.gif.gif">
 
   <p align="center">
   <a href="https://github.com/BreaBang/JavascriptBasicProjects/tree/main/Reviews" target="_blank">
@@ -93,12 +93,12 @@
     </td>
      
   
-      <td width="50%" valign="top">
+      <td width="40%" valign="top">
       <h3 align="center">Buzzfeed Style Quiz Appl (in progress)</h3>
         <br>
       <a target="_blank" href=""></a>    
 
-<img src="https://github.com/BreaBang/QuizApp/blob/main/04.gif" width="100%" >
+<img src="https://github.com/BreaBang/QuizApp/blob/main/04.gif"" >
 
   <p align="center">
   <a href="https://github.com/BreaBang/QuizApp" target="_blank">
