@@ -98,7 +98,7 @@
         <br>
       <a target="_blank" href=""></a>    
 
-<img src="https://github.com/BreaBang/QuizApp/blob/main/04.gif"" >
+<img src="https://github.com/BreaBang/QuizApp/blob/main/04.gif">
 
   <p align="center">
   <a href="https://github.com/BreaBang/QuizApp" target="_blank">
