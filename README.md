@@ -40,7 +40,7 @@
       <h3 align="center">Find A Book App</h3>
         <br>
         <a target="_blank" href="https://jaclynbrothers.github.io/leftover-ingredients-app/">
-            <img src="https://github.com/BreaBang/BookRecommenderAPI/blob/main/API.gif.gif" width="100%" alt="Leftover Ingredients App">
+            <img src="https://github.com/BreaBang/BookRecommenderAPI/blob/main/API.gif.gif">
         </a>
         <br>
         <p align="center">
@@ -58,7 +58,7 @@
       <h3 align="center">Unbridled Yoga Website</h3>
         <br>
       <a target="_blank" href="https://jaclynbrothers.github.io/dog-generator/">
-            <img src="https://github.com/BreaBang/BreaBang/blob/main/unbridled.png" width="100%"  alt="Dog Generator App"/>
+            <img src="https://github.com/BreaBang/BreaBang/blob/main/unbridled.png">
         </a>
         <br>
         <p align="center">
@@ -80,7 +80,7 @@
         <br>
       <a target="_blank" href="https://jaclynbrothers.github.io/prep-and-step/"></a>    
 
-https://github.com/BreaBang/JavascriptBasicProjects/blob/main/Reviews/dogs.gif.gif
+<img src="https://github.com/BreaBang/JavascriptBasicProjects/blob/main/Reviews/dogs.gif.gif">
 
   <p align="center">
   <a href="https://github.com/jaclynbrothers/prep-and-step" target="_blank">
@@ -96,7 +96,7 @@ https://github.com/BreaBang/JavascriptBasicProjects/blob/main/Reviews/dogs.gif.g
       <h3 align="center">Buzzfeed Style Quiz Appl (in progress)</h3>
         <br>
         <a target="_blank" href="https://jaclynbrothers.netlify.app/">
-           <img src="https://github.com/BreaBang/QuizApp/blob/main/04.gif" width="100%" alt="My Portfolio Layout">
+           <img src="https://github.com/BreaBang/QuizApp/blob/main/04.gif">
         </a>
         <br>
         <p align="center">
