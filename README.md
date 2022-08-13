@@ -37,10 +37,10 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Leftover Ingredients App</h3>
+      <h3 align="center">Find A Book App</h3>
         <br>
         <a target="_blank" href="https://jaclynbrothers.github.io/leftover-ingredients-app/">
-            <img src="https://media.giphy.com/media/i4gQPdSIkW3Yntg32O/giphy.gif" width="100%" alt="Leftover Ingredients App">
+            <img src="https://github.com/BreaBang/BookRecommenderAPI/blob/main/API.gif.gif" width="100%" alt="Leftover Ingredients App">
         </a>
         <br>
         <p align="center">
@@ -55,10 +55,10 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - This app helps you find meals for your leftover ingredients. Type in your leftover ingredient to view recipes you can make! Each recipe contains the instructions along with a link to the corresponding YouTube video.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Dog Generator</h3>
+      <h3 align="center">Unbridled Yoga Website</h3>
         <br>
       <a target="_blank" href="https://jaclynbrothers.github.io/dog-generator/">
-            <img src="https://media.giphy.com/media/51FbqdXjkmCAD4qbav/giphy.gif" width="100%"  alt="Dog Generator App"/>
+            <img src="https://github.com/BreaBang/BreaBang/blob/main/unbridled.png" width="100%"  alt="Dog Generator App"/>
         </a>
         <br>
         <p align="center">
@@ -76,11 +76,11 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Prep and Step</h3>
+      <h3 align="center">Basic JavaScript Review Carousel</h3>
         <br>
       <a target="_blank" href="https://jaclynbrothers.github.io/prep-and-step/"></a>    
 
-https://user-images.githubusercontent.com/102431119/177065839-dc567614-75ca-4947-86b0-e85e606722e1.mp4
+https://github.com/BreaBang/JavascriptBasicProjects/blob/main/Reviews/dogs.gif.gif
 
   <p align="center">
   <a href="https://github.com/jaclynbrothers/prep-and-step" target="_blank">
@@ -93,10 +93,10 @@ https://user-images.githubusercontent.com/102431119/177065839-dc567614-75ca-4947
         <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This application allows the user to select and name images to create a visual schedule of their student's or child's daily routine.</p>
     </td>
 <td width="50%" valign="top">
-      <h3 align="center">My Portfolio</h3>
+      <h3 align="center">Buzzfeed Style Quiz Appl (in progress)</h3>
         <br>
         <a target="_blank" href="https://jaclynbrothers.netlify.app/">
-            <img src="https://github.com/jaclynbrothers/portfolio/blob/main/images/portfolio.png" width="100%" alt="My Portfolio Layout">
+           <img src="https://github.com/BreaBang/QuizApp/blob/main/04.gif" width="100%" alt="My Portfolio Layout">
         </a>
         <br>
         <p align="center">
