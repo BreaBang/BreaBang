@@ -33,14 +33,14 @@
 <br>
 
 <h2 align="center">Latest Projects</h2>
-<table bordercolor="#66b2b2">
+<table bordercolor="#2a52be">
   
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Find A Book App</h3>
         <br>
         <a target="_blank" href="https://github.com/BreaBang/BookRecommenderAPI">
-            <img src="https://github.com/BreaBang/BookRecommenderAPI/blob/main/API.gif.gif">
+            <img src="https://github.com/BreaBang/BookRecommenderAPI/blob/main/API.gif.gif" width="100%">
         </a>
         <br>
         <p align="center">
@@ -59,7 +59,7 @@
       <h3 align="center">Unbridled Yoga Website</h3>
         <br>
       <a target="_blank" href="https://unbridledyogacolorado.com/">
-            <img src="https://github.com/BreaBang/BreaBang/blob/main/unbridled.png"/>
+            <img src="https://github.com/BreaBang/BreaBang/blob/main/unbridled.png" width="100%">
         </a>
         <br>
         <p align="center">
@@ -81,7 +81,7 @@
         <br>
       <a target="_blank" href="https://github.com/BreaBang/JavascriptBasicProjects/tree/main/Reviews"></a>    
 
-<img src="https://github.com/BreaBang/JavascriptBasicProjects/blob/main/Reviews/dogs.gif.gif">
+<img src="https://github.com/BreaBang/JavascriptBasicProjects/blob/main/Reviews/dogs.gif.gif" width="100%">
 
   <p align="center">
   <a href="https://github.com/BreaBang/JavascriptBasicProjects/tree/main/Reviews" target="_blank">
@@ -98,7 +98,7 @@
         <br>
       <a target="_blank" href=""></a>    
 
-<img src="https://github.com/BreaBang/QuizApp/blob/main/04.gif?raw=true">
+<img src="https://github.com/BreaBang/QuizApp/blob/main/04.gif" width="100%" >
 
   <p align="center">
   <a href="https://github.com/BreaBang/QuizApp" target="_blank">
