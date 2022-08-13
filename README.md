@@ -82,12 +82,14 @@
 <img src="https://github.com/BreaBang/JavascriptBasicProjects/blob/main/Reviews/dogs.gif.gif">
 
   <p align="center">
-  <a href="https://github.com/BreaBang/JavascriptBasicProjects/tree/main/Reviews" target="_blank">
+ <a href="https://unbridledyogacolorado.com/" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>  
-  
+  </a>
+  <a href="https://unbridledyogacolorado.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
       </p>
-        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This application allows a user to click through or choose a random review. I created this basic review carousel via the FreeCodeAcademy and John Smilga tutorial.</p>
+        <p><strong>HTML5, CSS3</strong> - This website was created using a template for a Colorado Springs Yoga Teacher.</p>
     </td>
 <td width="50%" valign="top">
       <h3 align="center">Buzzfeed Style Quiz Appl (in progress)</h3>
