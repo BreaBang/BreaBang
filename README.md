@@ -33,88 +33,94 @@
 <br>
 
 <h2 align="center">Latest Projects</h2>
-<table bordercolor="#2a52be">
+<table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Find A Book App</h3>
+      <h3 align="center">Leftover Ingredients App</h3>
         <br>
-        <a target="_blank" href="https://github.com/BreaBang/BookRecommenderAPI">
-            <img src="https://github.com/BreaBang/BookRecommenderAPI/blob/main/API.gif.gif">
+        <a target="_blank" href="https://jaclynbrothers.github.io/leftover-ingredients-app/">
+            <img src="https://media.giphy.com/media/i4gQPdSIkW3Yntg32O/giphy.gif" width="100%" alt="Leftover Ingredients App">
         </a>
         <br>
         <p align="center">
           
-  <a href="github.com/BreaBang/BookRecommenderAPI" target="_blank">
+  <a href="https://github.com/jaclynbrothers/leftover-ingredients-app" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-  <a href="https://findabookbybre.netlify.app/" target="_blank">
+  <a href="https://jaclynbrothers.github.io/leftover-ingredients-app/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - This app helps you find your next read by providing a book recommendation based on a word input by the user.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - This app helps you find meals for your leftover ingredients. Type in your leftover ingredient to view recipes you can make! Each recipe contains the instructions along with a link to the corresponding YouTube video.</p>
     </td>
-    
     <td width="50%" valign="top">
-      <h3 align="center">Unbridled Yoga Website</h3>
+      <h3 align="center">Dog Generator</h3>
         <br>
-      <a target="_blank" href="https://unbridledyogacolorado.com/">
-            <img src="https://github.com/BreaBang/BreaBang/blob/main/unbridled.png">
+      <a target="_blank" href="https://jaclynbrothers.github.io/dog-generator/">
+            <img src="https://media.giphy.com/media/51FbqdXjkmCAD4qbav/giphy.gif" width="100%"  alt="Dog Generator App"/>
         </a>
         <br>
         <p align="center">
           
-  <a href="https://unbridledyogacolorado.com/" target="_blank">
+  <a href="https://github.com/jaclynbrothers/dog-generator" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://unbridledyogacolorado.com/" target="_blank">
+  <a href="https://jaclynbrothers.github.io/dog-generator/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong>HTML5, CSS3</strong> - This website was created using a template for a Colorado Springs Yoga Teacher.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - User can select a dog breed that generates a randomized name, image, and description for that dog.</p>
     </td>
   </tr>
   
   <tr>
-    <td width="40%" valign="top">
-      <h3 align="center">Basic JavaScript Review Carousel</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Prep and Step</h3>
         <br>
-      <a target="_blank" href="https://github.com/BreaBang/JavascriptBasicProjects/tree/main/Reviews"></a>    
+      <a target="_blank" href="https://jaclynbrothers.github.io/prep-and-step/"></a>    
 
-<img src="https://github.com/BreaBang/JavascriptBasicProjects/blob/main/Reviews/dogs.gif.gif">
+https://user-images.githubusercontent.com/102431119/177065839-dc567614-75ca-4947-86b0-e85e606722e1.mp4
 
   <p align="center">
-  <a href="https://github.com/BreaBang/JavascriptBasicProjects/tree/main/Reviews" target="_blank">
+  <a href="https://github.com/jaclynbrothers/prep-and-step" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-  
-      </p>
-        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This application allows a user to click through or choose a random review. I created this basic review carousel via the FreeCodeAcademy and John Smilga tutorial.</p>
-    </td>
-     
-  
-      <td width="40%" valign="top">
-      <h3 align="center">Buzzfeed Style Quiz Appl (in progress)</h3>
-        <br>
-      <a target="_blank" href=""></a>    
-
-<img src="https://github.com/BreaBang/QuizApp/blob/main/04.gif">
-
-  <p align="center">
-  <a href="https://github.com/BreaBang/QuizApp" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>  
-  <a href="https://dogquizapp.netlify.app/" target="_blank">
+  <a href="https://jaclynbrothers.github.io/prep-and-step/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This is a quiz application via an Ania Kubow tutorial. </p>
+        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This application allows the user to select and name images to create a visual schedule of their student's or child's daily routine.</p>
+    </td>
+<td width="50%" valign="top">
+      <h3 align="center">My Portfolio</h3>
+        <br>
+        <a target="_blank" href="https://jaclynbrothers.netlify.app/">
+            <img src="https://github.com/jaclynbrothers/portfolio/blob/main/images/portfolio.png" width="100%" alt="My Portfolio Layout">
+        </a>
+        <br>
+        <p align="center">
+          
+  <a href="https://github.com/jaclynbrothers/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+  <a href="https://jaclynbrothers.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - My portfolio website that describes consulting services, showcases latest projects, and provides ways to contact me.</p>
     </td>
   </tr>
 </table>
 
 <br>
 
+<h2 align="center">Streak Stats</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaclynbrothers&theme=highcontrast" alt="jaclynbrothers" />
+</p>
+
+<br>
 
 <h2 align="center">Technical Skills</h2>
 <p align="center">
@@ -158,4 +164,3 @@
 <a href="https://twitter.com/jaclynbrothers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaclynbrothers" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jaclynbrothers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaclynbrothers" height="30" width="40" /></a>
 </p>
-
