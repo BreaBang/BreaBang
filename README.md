@@ -107,7 +107,7 @@
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This is a quiz app created from an Ania Kubow tutorial.</p>
+        <p><strong>HTML5, CSS3, & Javascript </strong> - This is a quiz app created from an Ania Kubow tutorial.</p>
     </td>
   </tr>
 </table>
