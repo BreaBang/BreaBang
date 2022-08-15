@@ -94,8 +94,8 @@
 <td width="50%" valign="top">
       <h3 align="center">Buzzfeed Style Quiz Appl (in progress)</h3>
         <br>
-        <a target="_blank" href="https://dogquizapp.netlify.app/">
-           <img src="https://github.com/BreaBang/QuizApp/blob/main/04.gif">
+        <a target="_blank" href="https://teaquizapp.netlify.app/">
+           <img src="https://github.com/BreaBang/QuizApp/blob/main/Screen%20Shot%202022-08-15%20at%205.13.32%20PM.png?raw=true">
         </a>
         <br>
         <p align="center">
@@ -103,11 +103,11 @@
   <a href="https://github.com/BreaBang/QuizApp" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-  <a href="https://dogquizapp.netlify.app/" target="_blank">
+  <a href="https://teaquizapp.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - My portfolio website that describes consulting services, showcases latest projects, and provides ways to contact me.</p>
+        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This is a quiz app created from an Ania Kubow tutorial.</p>
     </td>
   </tr>
 </table>
