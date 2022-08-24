@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on a 100-hours project (not ready to share details).
 
-- 🌱 I’m currently building confidence in my knowledge of Javascript through projects.
+- 🌱 Eager to learn and experience learning on the job.
 
 - 📫 How to reach me: Breanna.Bang@gmail.com
 
