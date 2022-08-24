@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on a 100-hours project (not ready to share details).
 
-- 🌱 Eager to learn and experience learning on the job.
+- 🌱 Eager to learn and I have experience learning on the job.
 
 - 📫 How to reach me: Breanna.Bang@gmail.com
 
