@@ -21,7 +21,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on a 100-hours project (not ready to share details).
+- 🔭 I’m currently working on a 100-hours project: a resource app to put community resources in one place and make them easy to find for community partners.
 
 - 🌱 Eager to learn and I have experience learning on the job.
 
