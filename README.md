@@ -93,7 +93,7 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - This application allows a user to click through or choose a random review. I created this basic review carousel via the FreeCodeAcademy and John Smilga tutorial.</p>
     </td>
 <td width="50%" valign="top">
-      <h3 align="center">Buzzfeed Style Quiz Appl (in progress)</h3>
+      <h3 align="center">Buzzfeed Style Quiz App </h3>
         <br>
         <a target="_blank" href="https://teaquizapp.netlify.app/">
            <img src="https://github.com/BreaBang/QuizApp/blob/main/Screen%20Shot%202022-08-15%20at%205.13.32%20PM.png?raw=true">
