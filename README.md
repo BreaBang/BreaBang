@@ -35,6 +35,47 @@
 
 <h2 align="center">Latest Projects</h2>
 <table bordercolor="2a52be">
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">StoryBook Full-Stack Web Application</h3>
+        <br>
+        <a target="_blank" href="https://github.com/BreaBang/StoryApp">
+            <img src="https://github.com/BreaBang/StoryApp/raw/main/StoryBooksGif.gif">
+        </a>
+        <br>
+        <p align="center">
+          
+   <a href="https://github.com/BreaBang/StoryApp" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript, Handlebars, Node.js, Materialze, Google Auth, Passport, & MVC</strong> - This app allows users to login with their google account and create, read, edit and delete public or private stories.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">Group Project To-Do List</h3>
+        <br>
+      <a target="_blank" href="#">
+            <img src="https://github.com/BreaBang/todo-mvc-auth-local">
+        </a>
+        <br>
+        <p align="center">
+          
+  <a href="https://unbridledyogacolorado.com/" target="_blank">
+    <img src="https://github.com/BreaBang/todo-mvc-auth-local">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript, EJS, Node.js, Passport & MVC </strong> - I worked with three other 100devs Software Engineers to update a to-do list template and allow different users to task assignements to other users. </p>
+    </td>
+  </tr>
+
+
+-----------------
   
   <tr>
     <td width="50%" valign="top">
