@@ -57,8 +57,8 @@
     <td width="50%" valign="top">
       <h3 align="center">Group Project To-Do List</h3>
         <br>
-      <a target="_blank" href="#">
-            <img src="https://github.com/BreaBang/todo-mvc-auth-local">
+      <a target="_blank" href="https://github.com/BreaBang/todo-mvc-auth-local">
+            <img src="https://github.com/BreaBang/todo-mvc-auth-local/blob/main/grouptodo.gif?raw=true">
         </a>
         <br>
         <p align="center">
