@@ -63,10 +63,10 @@
         <br>
         <p align="center">
           
-  <a href="https://unbridledyogacolorado.com/" target="_blank">
-    <img src="https://github.com/BreaBang/todo-mvc-auth-local">
+  <a href="https://github.com/BreaBang/todo-mvc-auth-local" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>
-  <a href="#" target="_blank">
+  <a href="https://projectmanageapp.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
