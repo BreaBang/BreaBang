@@ -55,7 +55,7 @@
       </p>
         <p><strong>HTML5, CSS3, Javascript, Handlebars, Node.js, Materialze, Google Auth, Passport, & MVC</strong> - This app allows users to login with their google account and create, read, edit and delete public or private stories.</p>
     <td width="50%" valign="top">
-      <h3 align="center">Group Project To-Do List</h3>
+      <h3 align="center">Task It - A Group Project To-Do List App</h3>
         <br>
       <a target="_blank" href="https://github.com/BreaBang/todo-mvc-auth-local">
             <img src="https://github.com/BreaBang/todo-mvc-auth-local/blob/main/grouptodo.gif?raw=true">
