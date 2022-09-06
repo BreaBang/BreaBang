@@ -70,7 +70,7 @@
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript, EJS, Node.js, Passport & MVC </strong> - I worked with three other 100devs Software Engineers to update a to-do list template and allow different users to task assignements to other users. </p>
+        <p><strong>HTML5, CSS3, Javascript, EJS, Node.js, Passport & MVC </strong> - I worked a group of 100devs Software Engineers to update a to-do list template and allow different users to task assignements to other users. </p>
     </td>
   </tr>
 
