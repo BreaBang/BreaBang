@@ -87,7 +87,7 @@
         <br>
         <p align="center">
           
-   <a href="https://findabookbybre.netlify.app/" target="_blank">
+   <a href="https://github.com/BreaBang/BookRecommenderAPI" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
   <a href="https://findabookbybre.netlify.app/" target="_blank">
