@@ -22,8 +22,8 @@
 </p>
 
 - 🔭 I’m currently working on a 100-hours project: 
-  - a resource app to put community resources in one place and make them easy to find for community members and partners. Community partners will be able to login and add, edit or delete their resources. 
-
+  - a web application that will allow users to watch a yoga video and then journal public or private stories. The inspiration for this project comes from a yoga journaling class I teach a couple times a month. Users will be able to add, edit and delete their journal entries, as well as view other public entires. 
+  
 - 🌱 Eager to learn and I have experience learning on the job.
 
 - 📫 How to reach me: Breanna.Bang@gmail.com
