@@ -22,7 +22,7 @@
 </p>
 
 - 🔭 I’m currently working on a 100-hours project: 
-  - a web application that will allow users to watch a yoga video and then journal public or private stories. The inspiration for this project comes from a yoga journaling class I teach a couple times a month. Users will be able to add, edit and delete their journal entries, as well as view other public entires. 
+  - a web application that will allow runners to journal about their runs. They will be able to create and delete public or privatejournal entries that include image uploads, comment on other public journal entries, add goals and eventually update goals.
   
 - 🌱 Eager to learn and I have experience learning on the job.
 
