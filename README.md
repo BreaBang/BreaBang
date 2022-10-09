@@ -36,7 +36,7 @@
 <h2 align="center">Latest Projects</h2>
 <table bordercolor="2a52be">
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Write to Run Well Full-Stack Web Application</h3>
         <br>
         <a target="_blank" href="https://github.com/BreaBang/">
