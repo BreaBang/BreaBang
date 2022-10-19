@@ -32,7 +32,7 @@
 
 - ⚡ Fun facts: I'm a huge fan of Disney's Gargoyles (1994). <a href="https://www.breoutside.com" target="_blank">I teach yoga</a>. I'm a volunteer dog walker at a local shelter.
 <br>
-<img src="https://www.codewars.com/users/BreaBang/badges/large">
+<img src="https://www.codewars.com/users/BreaBang/badges/large" align="center">
 <br>
 
 <h2 align="center">Latest Projects</h2>
