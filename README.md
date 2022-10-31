@@ -32,7 +32,7 @@
 
 - ⚡ Fun facts: I'm a huge fan of Disney's Gargoyles (1994). <a href="https://www.breoutside.com" target="_blank">I teach yoga</a>. I'm a volunteer dog walker at a local shelter.
 <br>
-The recent week of no activity at the end of October was due to the decline and passing of my dog Baby Bear. She was a 12.5 year old Chow and after four years of arthritis treatment, the condition suddenly accelerated and got the best of her. I wasn't able to code during her last week of life or the day following. Her absence is heavily felt and she is deeply missed.
+<p>The recent week of no activity at the end of October was due to the decline and passing of my dog Baby Bear. She was a 12.5 year old Chow and after four years of arthritis treatment, the condition suddenly accelerated and got the best of her. I wasn't able to code during her last week of life or the day following. Her absence is heavily felt and she is deeply missed.</p>
 <br>
 <p align="center"><a href="https://www.codewars.com/users/BreaBang/stats" target="_blank"><img align="center" src="https://www.codewars.com/users/BreaBang/badges/large" align="center"></a></p>
 <br>
