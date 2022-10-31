@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Breanna Bang</h1>
-<h3 align="center">A full stack software engineer from Denver, Colorado</h3>
+<h3 align="center">A full stack software engineer in Denver, Colorado</h3>
 <p align="center">
   <a target="_blank" href="https://www.breannabang.com/">
     <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
