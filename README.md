@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript, Handlebars, Node.js, Materialze, Google Auth, Passport, & MVC</strong> - This app allows users to login with their google account and create, read, edit and delete public or private stories.</p>
+        <p><strong>HTML5, CSS3, Javascript, Handlebars, Node.js, Materialze, Google Auth, & Passport</strong> - This app allows users to login with their google account and create, read, edit and delete public or private stories.</p>
     <td width="50%" valign="top">
       <h3 align="center">Task It - A Group Project To-Do List App</h3>
         <br>
