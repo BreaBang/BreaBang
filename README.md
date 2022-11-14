@@ -21,8 +21,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on a 100-hours project: 
-  - a web application that will allow runners to journal about their runs. They will be able to create and delete public or privatejournal entries that include image uploads, comment on other public journal entries, add goals and eventually update goals.
+- 🔭 I’m currently working on a web application to help connect dog rescues and foster families. 
   
 - 🌱 Eager to learn and I have experience learning on the job.
 
