@@ -99,8 +99,7 @@
         <p><strong>HTML5, CSS3, Javascript, EJS, Node.js, Passport & MVC </strong> - I worked a group of 100devs Software Engineers to update a to-do list template and allow different users to task assignements to other users. </p>
     </td>
   
-  <tr>
-    <td width="50%" valign="top">
+   <td width="50%" valign="top">
       <h3 align="center">Unbridled Yoga Website</h3>
         <br>
       <a target="_blank" href="https://unbridledyogacolorado.com/">
