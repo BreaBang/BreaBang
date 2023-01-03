@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript, EJS, Node.js, Bootstrapm, Passport, & MVC</strong> - This app allows user's to create an account and add goals, races and running journal entries.</p>
+        <p><strong>HTML5, CSS3, Javascript, EJS, Node.js, TailwindCSS, Passport, & MVC</strong> - This app allows user's to create an account and add goals, races and running journal entries.</p>
 </td>
     
     
