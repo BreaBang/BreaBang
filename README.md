@@ -60,10 +60,10 @@
     
     
 <td width="50%" valign="top">
-      <h3 align="center">React Project Coming Soon</h3>
+      <h3 align="center">Tailor Family Dry Cleaners</h3>
         <br>
-        <a target="_blank" href="https://github.com/BreaBang/">
-            <img src="#">
+        <a target="_blank" href="https://github.com/BreaBang/SimpleCSSSite">
+             <img src="https://github.com/BreaBang/SimpleCSSSite/blob/main/TailorFam.gif?raw=true" />
         </a>
         <br>
         <p align="center">
@@ -71,16 +71,14 @@
    <a href="https://github.com/BreaBang/" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://simplecsssite.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong>Coming Soon</strong> - Working on a project using React</p>
+     <p><strong>HTML5, CSS3</strong> - Simple media responsive CSS and HTML site. </p>
 </td>    
     
     
-    
-
     
     
     
