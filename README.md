@@ -47,7 +47,7 @@
         <br>
         <p align="center">
           
-   <a href="https://github.com/BreaBang/WTRW" target="_blank">
+   <a href="https://github.com/BreaBang/100" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
   <a href="https://writetorunwell.com" target="_blank">
