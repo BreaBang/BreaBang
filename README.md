@@ -20,8 +20,6 @@
       <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/>
   </a>
 </p>
-
-- 🔭 I’m currently working on a web application to help connect dog rescues and foster families. 
   
 - 🌱 Eager to learn and I have experience learning on the job.
 
@@ -29,7 +27,7 @@
 
 - 😄 Pronouns: She/Her/Hers
 
-- ⚡ Fun facts: I'm a huge fan of Disney's Gargoyles (1994). <a href="https://www.breoutside.com" target="_blank">I teach yoga</a>. I'm a volunteer dog walker at a local shelter.
+- ⚡ Fun facts: I'm a huge fan of Disney's Gargoyles (1994). <a href="https://www.breoutside.com" target="_blank">I teach yoga</a>. 
 <br>
 
 <p align="center"><a href="https://www.codewars.com/users/BreaBang/stats" target="_blank"><img align="center" src="https://www.codewars.com/users/BreaBang/badges/large" align="center"></a></p>
