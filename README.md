@@ -79,22 +79,22 @@
  -------------------------------
 <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Task It - A Group Project To-Do List App</h3>
+      <h3 align="center">Yoga with You e-Commerce Website</h3>
         <br>
-      <a target="_blank" href="https://github.com/BreaBang/todo-mvc-auth-local">
-            <img src="https://github.com/BreaBang/todo-mvc-auth-local/blob/main/grouptodo.gif?raw=true">
+      <a target="_blank" href="https://github.com/BreaBang/ShoppingCart">
+            <img src="https://github.com/BreaBang/ShoppingCart/blob/main/images/yogawithyou.gif?raw=true">
         </a>
         <br>
         <p align="center">
           
-  <a href="https://github.com/BreaBang/todo-mvc-auth-local" target="_blank">
+  <a href="https://github.com/BreaBang/ShoppingCart" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://projectmanageapp.onrender.com" target="_blank">
+  <a href="https://yogawithyou.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript, EJS, Node.js, Passport & MVC </strong> - I worked a group of 100devs Software Engineers to update a to-do list template and allow different users to task assignements to other users. </p>
+        <p><strong>HTML5, CSS3, Javascript</strong> - Simple vanilla JavaScript e-commerce website with cart functionality. </p>
     </td>
   
    <td width="50%" valign="top">
