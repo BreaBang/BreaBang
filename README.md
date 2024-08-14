@@ -1,7 +1,7 @@
 <h1 align="center">Hey I'm Breanna Bang</h1>
 <h3 align="center">A Full Stack Software Engineer in Denver, Colorado</h3>
 <p align="center">
-  <a target="_blank" href="https://www.breannabang.com/">
+  <a target="_blank" href="https://breannabang.netlify.app/">
     <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
   </a>
 <!--     <a target="_blank" href="#">
