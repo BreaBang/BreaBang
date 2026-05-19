@@ -4,15 +4,14 @@
   <a target="_blank" href="https://breannabang.netlify.app/">
     <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
   </a>
-<!--     <a target="_blank" href="#">
-    <img src="https://img.shields.io/badge/Resume-3B732C?style=for-the-badge&logo=react&logoColor=white">
-</a>
+<!--
   <a target="_blank" href="https://www.linkedin.com/in/breanna-bang/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a target="_blank" href="https://angel.co/u/breanna-bang" target="_blank">
       <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/>
   </a>
+  --!>
 </p>
   
 - 🌱 Eager to learn and I have experience learning on the job.
