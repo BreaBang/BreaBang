@@ -7,7 +7,7 @@
 <!--     <a target="_blank" href="#">
     <img src="https://img.shields.io/badge/Resume-3B732C?style=for-the-badge&logo=react&logoColor=white">
   </a>
-  <a target="_blank" href="mailto:breanna.bang@gmail.com">
+  <a target="_blank" href="mailto:breanna.bang[at]gmail.com">
     <img src="https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a> -->
   <a target="_blank" href="https://www.linkedin.com/in/breanna-bang/" target="_blank">
